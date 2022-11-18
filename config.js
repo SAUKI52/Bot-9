@@ -14,18 +14,18 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6287778405247'] //ur owner number
-global.ownername = "🦄Nabot Xeon" //ur owner name
-global.ytname = "YT: Not_Reii" //ur yt chanel name
+global.vcardowner = ['62895357313987'] //ur owner number
+global.ownername = "🦄NSAUKI OFFICIAL" //ur owner name
+global.ytname = "YT: YT SAUKI_OFFICIAL" //ur yt chanel name
 global.socialm = "GitHub: Reiibotz" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['6287778405247'] //ur number
-global.ownernomer = "6287778405247" //ur number
-global.ownertag = '6287778405247' //ur tag number
-global.premium = ['6287778405247'] //ur premium number
-global.botname = 'Nabot  V1' //ur bot name
+global.owner = ['62895357313987'] //ur number
+global.ownernomer = "62895357313987" //ur number
+global.ownertag = '62895357313987' //ur tag number
+global.premium = ['62895357313987'] //ur premium number
+global.botname = 'SAUKI BOTZ  V1' //ur bot name
 global.ownername = "🦄Reii"
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
